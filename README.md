@@ -22,9 +22,9 @@ For this project, I used  The RVL-CDIP Dataset, which is one of the most popular
 ### Dataset Details
 
 - Total Images: Approximately 400,000
-- Training Images: 319,999
-- Validation Images: 40,000
-- Test Images: 40,000
+- Training Images: 319,999 (Used 5000)
+- Validation Images: 40,000 (Used 675)
+- Test Images: 40,000 (Used 675)
 - Number of Classes: 16
 
 The dataset contains different types of real-world scanned documents and provides a good benchmark for training document classification models.
